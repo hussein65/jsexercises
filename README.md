@@ -1,5 +1,3 @@
-# jsexercises
-JavaScript lessons from @newamericanscode
 
 <!DOCTYPE html>
 <html>
@@ -220,4 +218,3 @@ for (var i=0; i<array.length; ++i) {
                                                                              
   </body>
 </html>
-
